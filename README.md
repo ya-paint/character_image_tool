@@ -1,0 +1,2 @@
+# character_image_tool
+立ち絵のpsdからレイヤー別にpngを出力するプログラム
